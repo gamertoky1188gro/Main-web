@@ -1,0 +1,280 @@
+Cyber Code Master
+Programming
+
+Khulna, 9100 BD
++8801728682807
+tokyintelligentgamer@gmail.com
+
+Websites, Portfolios, Profiles
+
+https://www.fiverr.com/cybercodemaster/
+
+Professional Summary
+
+An advanced Computer and Software Engineer with a strong passion for programming and technology. Skilled in a wide array of programming languages and tools, including both front-end and back-end development, scripting, and ethical hacking. Proven ability in graphics design, binary analysis, and system management. I am always eager to stay updated on the latest technology trends and continuously improve my technical expertise. Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 5 years of related experience. Software development professional with experience in developing and designing web applications using HTML, CSS, JavaScript, Angular, Node.js, and React. Adept at developing and deploying complex backend systems, web services and databases. Equipped with strong problem-solving abilities, willingness to learn, and excellent communication skills. Poised to contribute to team success and achieve positive results. Ready to tackle new challenges and advance organizational objectives with dedication and enthusiasm.
+
+Skills
+
+CSS proficiency
+
+JavaScript programming
+
+API Integration
+
+RESTful APIs development
+
+Node.js Experience
+
+ReactJS Knowledge
+
+Responsive Web Design
+
+HTML expertise
+
+JavaScript experience
+
+Web Technologies: AngularJS, jQuery, Bootstrap
+
+[Language] proficiency
+
+HTML5 expertise
+
+Sprint Planning
+
+Java programming
+
+Project Management
+
+Coding
+
+Software Best Practices
+
+UI and UX design principles
+
+Application Development
+
+Server-Side Rendering
+
+Requirements Gathering
+
+Progressive Web Apps
+
+Library design
+
+Vue.js understanding
+
+NoSQL Databases
+
+JavaScript proficiency
+
+CSS expertise
+
+HTML proficiency
+
+Javascript
+
+API Design and Development
+
+API design knowledge
+
+Time Management
+
+Problem-solving abilities
+
+JS Frameworks: React, Angular, Vue
+
+Programming Languages: Java, C#, .Net, Python
+
+Web Programming
+
+Python and C++
+
+HTML
+
+Programming
+
+Code reviews
+
+Testing and debugging
+
+Problem-solving aptitude
+
+New Feature Development
+
+Software Testing and Validation
+
+Analytical Thinking
+
+Creative Problem-Solving
+
+Microsoft ASP.NET
+
+.NET development
+
+Software Architecture
+
+Software Development Standards
+
+Time management abilities
+
+Cloud Computing
+
+Written Communication
+
+Code validation
+
+Self Motivation
+
+Front-end: HTML, CSS, JavaScript, React, Vite
+
+Back-end: Node.js, PHP, Java
+
+Scripting: PowerShell, Linux SH, CMD
+
+Software Development: C++, C#, Python, C
+
+Tools: Git, Gradle
+
+Operating Systems: Linux, Windows
+
+Command Line: CMD, Bash
+
+Advanced problem-solving and binary manipulation
+
+Ethical hacking
+
+Photo editing
+
+Video editing
+
+Logo design
+
+Work History
+
+January 2020 - Current
+
+Computer & Software Engineer (Advanced) - Khulna, Jashore
+Full Stack Developer
+
+Developed and optimized complex systems using multiple programming languages.
+Designed and implemented user-friendly front-end and powerful back-end architectures.
+Performed security analyses and ethical hacking to identify system vulnerabilities.
+Managed and edited multimedia content, including photo and video projects for various clients.
+Created custom automation scripts for system management and optimization.
+Reviewed code, debugged problems, and corrected issues.
+Developed functional databases, applications and servers to support websites on back-end.
+Integrated third-party APIs to enhance functionality and improve overall user experience on web platforms.
+Reduced page load times by optimizing front-end assets such as JavaScript files, stylesheets, and images.
+Worked with back-end developers to design APIs.
+Used NodeJS, ORM and SQL/No-SQL to develop and manage databases.
+Troubleshot and resolved complex technical issues, maintaining optimal system performance and uptime.
+Developed unit test cases for testing and automation.
+Inspected equipment, assessed functionality, and optimized controls.
+Refactored legacy codebases to modernize software architecture and improve maintainability.
+Streamlined code deployment processes, resulting in faster product releases and updates.
+Improved project visibility, regularly reporting progress and challenges to stakeholders.
+Developed responsive web designs, ensuring compatibility across various devices and browsers.
+Drove user engagement, creating interactive and dynamic web components.
+Enhanced collaboration, setting up version control systems and workflow guidelines.
+Solved complex customer issues by developing custom software solutions tailored to specific needs.
+Analyzed work to generate logic for new systems, procedures and tests.
+Designed and implemented scalable applications for data extraction and analysis.
+Developed conversion and system implementation plans.
+
+January 2019 - Current
+
+Freelance - Khulna, Jashore
+Advanced Graphic Designer
+
+Designed high-quality visual content including logos, banners, and marketing materials for diverse clients.
+Edited and enhanced photos, videos, and multimedia for social media, websites, and promotional campaigns.
+Collaborated with clients to create custom graphics that aligned with their brand identity and vision.
+Utilized advanced tools like Adobe Photoshop, Illustrator, and Premiere Pro for professional graphic and video design.
+Created visually appealing and functional UI/UX designs for web and mobile applications.
+Developed creative design for print materials, brochures, banners, and signs.
+Conceptualized creative designs for print materials, banners, and signs.
+Created digital image files for use in digital and traditional printing methods.
+Completed final touches for projects such as images sizes and font selection.
+Created 3D models and animation for video games and other interactive projects.
+
+Additional Information
+
+Certifications: Certified Ethical Hacker (CEH)
+
+Languages:Bengali (Native)
+
+English (Fluent)
+
+Professional Development:Attended workshops and webinars on the latest programming languages and graphic design techniques.
+
+Participated in hackathons to enhance problem-solving skills and collaborate with other tech enthusiasts.
+
+Volunteering:Volunteered as a tech mentor for local community youth programs, helping students learn programming and graphic design skills.
+
+Software
+
+IntelliJ IDEA
+
+PyCharm
+
+Visual Studio
+
+Visual Studio Code
+
+Android Studio
+
+Nano
+
+Micro
+
+VMware Workstation
+
+Languages
+
+Bengali
+Native language
+			
+
+English
+C1
+Advanced
+			
+
+Hindi
+B2
+Upper intermediate
+			
+
+Arabic
+B1
+Intermediate
+			
+
+Urdu
+A2
+Elementary
+			
+
+Interests
+
+Programming: Continuously exploring new programming languages and technologies to stay updated with the latest industry trends.
+
+Ethical Hacking: Engaging in ethical hacking practices to enhance cybersecurity skills and discover new vulnerabilities.
+
+Graphics Design: Passionate about digital creativity, working on logo design, photo editing, and video production.
+
+Tech Research: Enthusiastically following the latest advancements in computer hardware, software development, and AI.
+
+Gaming: Enjoys gaming as a way to relax and also stay updated with gaming technologies and graphics.
+
+Learning New Technologies: Always exploring and experimenting with emerging tech like AI, machine learning, and blockchain.
+
+Why choose me?
+
+Versatile Skill Set: With advanced expertise in programming, graphic design, and ethical hacking, I bring a well-rounded skill set that allows me to contribute to multiple aspects of a project.
+Proven Experience: My background as a freelance software engineer and graphic designer demonstrates my ability to deliver high-quality work under tight deadlines while maintaining client satisfaction.
+Passionate and Committed: I have a genuine passion for technology and programming, consistently seeking opportunities to learn and improve my skills to stay ahead in a rapidly evolving industry.
+Creative Problem Solver: My experience in ethical hacking and systems design equips me with the analytical mindset necessary to tackle complex challenges and develop innovative solutions.
+Team Player: I thrive in collaborative environments and believe that effective communication and teamwork are essential for success in any project.
+Dedication to Quality: I am committed to producing high-quality work, ensuring that every project meets the highest standards of excellence and aligns with client goals.
+Adaptable and Quick Learner: I adapt quickly to new technologies and methodologies, making me an ideal candidate for dynamic work environments.

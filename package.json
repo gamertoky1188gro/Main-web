@@ -1,0 +1,46 @@
+{
+  "name": "my_web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite && npm run prestart && npm run poststart",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "prestart": "Start-Process powershell -ArgumentList \"-NoExit\", \"-Command\", \"cd G:\\java\\gradle\\project1\\gamertoky1188\\gamertoky1188\\ && gradle bootrun\"",
+    "poststart": "Start-Process powershell -ArgumentList \"-NoExit\", \"-Command\", \"cd G:\\java\\gradle\\project2\\gamertoky1188\\gamertoky1188\\\""
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@fontsource/roboto": "^5.1.0",
+    "@mui/icons-material": "^6.1.5",
+    "@mui/joy": "^5.0.0-beta.48",
+    "@mui/material": "^6.1.5",
+    "@mui/styled-engine-sc": "^6.1.5",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "canvas": "^2.11.2",
+    "devtools-detect": "^4.0.2",
+    "fs": "^0.0.1-security",
+    "pdfjs-dist": "^4.7.76",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0",
+    "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react": "^7.37.1",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.13",
+    "globals": "^15.11.0",
+    "sass": "^1.80.4",
+    "vite": "^5.4.9"
+  }
+}
